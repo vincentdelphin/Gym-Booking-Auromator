@@ -1,1 +1,1 @@
-# Gym-Booking-Auromator
+# Gym-Booking-Automator
